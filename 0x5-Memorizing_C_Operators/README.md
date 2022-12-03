@@ -2,7 +2,7 @@
 
 ## The List Of Operators
 
-| **Arithmetic Operators** |
-| :------: | :-----: |
+|: **Arithmetic Operators** : |||
+| :---- | :---- |
 | **Operator** | **Description** |
-
+| + | Add |
