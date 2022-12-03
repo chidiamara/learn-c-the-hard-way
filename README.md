@@ -26,4 +26,6 @@ Every other language developed after C attempts to prevent this, but not C.
 - Breaking C code
 - Writing basic UNIX systems software
 
-I wish myself Goodluck 
+I wish myself Goodluck.
+
+I will achieve great success.
